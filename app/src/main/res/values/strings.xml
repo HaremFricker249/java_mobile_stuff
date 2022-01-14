@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_1">Задание№1</string>
+    <string name="name">Name</string>
+    <string name="Input">Введите число:</string>
+    <string name="Edit1Hint">****</string>
+    <string name="Answer11">1. Ответ:</string>
+    <string name="Answer12">2. Ответ:</string>
+    <string name="Button1">Решить</string>
+    <string name="Task2">Задание №2</string>
+    <string name="GoTo">Перейти к следующему заданию</string>
+    <string name="Problem">Найти все трехзначные числа из промежутка (100; 750), такие, что произведение их первой и последней цифр равно 12</string>
+    <string name="Find">Найти</string>
+    <string name="Solve2">Ответ:</string>
+    <string name="PrevTask">Предыдущее задание</string>
+    <string name="NextTask">Следующее задание</string>
+    <string name="MultiLine">Ответ</string>
+    <string name="Task3">Задание№3</string>
+    <string name="Problem3">Найти все натуральные числа из промежутка от 1 до 200, у которых сумма цифр равна S (S вводить с клавиатуры).</string>
+    <string name="Input3">Введите S:</string>
+    <string name="hint3">-</string>
+    <string name="Solution3">Ответ:</string>
+    <string name="Solve3">Найти</string>
+    <string name="f_x_y_x_y_10_20">Вычислить значение функции F(x, y) для значений аргументов x и y, выданных случайным образом в диапазоне [-10 до 20]:</string>
+    <string name="_4">Задание №4</string>
+    <string name="Hint_layout4">Ответ</string>
+    <string name="Prev3">Предыдущее задание</string>
+    <string name="Solve4">Решить</string>
+</resources>
